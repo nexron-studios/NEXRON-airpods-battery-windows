@@ -1,8 +1,26 @@
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/brand/readme-banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="docs/brand/readme-banner-light.svg">
+  <img src="docs/brand/readme-banner-dark.svg" alt="AirPods Battery by NEXRON Studios: exact AirPods and iPhone battery levels on the Windows desktop" width="100%">
+</picture>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Windows-10_and_11-32d74b?style=flat-square&labelColor=19191a&logoColor=f0efec" alt="Windows 10 and 11">
+<img src="https://img.shields.io/badge/Tauri-2-32d74b?style=flat-square&labelColor=19191a&logo=tauri&logoColor=f0efec" alt="Tauri 2">
+<img src="https://img.shields.io/badge/Rust-stable-32d74b?style=flat-square&labelColor=19191a&logo=rust&logoColor=f0efec" alt="Rust, stable">
+<img src="https://img.shields.io/badge/Vue-3.5-32d74b?style=flat-square&labelColor=19191a&logo=vuedotjs&logoColor=f0efec" alt="Vue 3.5">
+<img src="https://img.shields.io/badge/License-GPL--3.0-32d74b?style=flat-square&labelColor=19191a&logo=gnu&logoColor=f0efec" alt="License GPL-3.0">
+
+</div>
+
+<br>
+
 <p align="center">
   <img src="docs/widget.gif" alt="Battery Widget showing AirPods left, right, case and iPhone battery levels" width="420">
 </p>
-
-<h1 align="center">AirPods Battery Widget for Windows</h1>
 
 <p align="center">
   See the <b>exact</b> battery level of your AirPods (left, right, case) and your iPhone
@@ -208,3 +226,7 @@ with Apple.
 ## License
 
 Code: [GPL-3.0](LICENSE). Device images: CC BY 4.0, see [Credits](#credits).
+
+<br>
+
+<div align="center"><sub>AirPods Battery is a NEXRON Studios tool. Banner from docs/brand/banner.json; the green is the widget's level-ok token from src/styles/tokens.css.</sub></div>

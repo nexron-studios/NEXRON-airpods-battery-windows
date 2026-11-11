@@ -1,0 +1,9 @@
+{
+  "name": "AirPods Battery",
+  "tagline": "Exact AirPods and iPhone battery levels on the Windows desktop",
+  "glyph": "../../src-tauri/icons/128x128@2x.png",
+  "brand": "#32d74b",
+  "brand_light": "#28cd41",
+  "pattern": "dots",
+  "out": "."
+}
